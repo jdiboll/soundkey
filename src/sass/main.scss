@@ -31,7 +31,7 @@ body, html {
 	padding: 1rem .5rem;
 	color: #5a5050;
 	width: 10rem;
-	transition: all 0.07s;
+	transition: all 0.05s;
 	text-align: center;
 	background: #a2d4ab;
 
@@ -47,7 +47,7 @@ kbd {
 	letter-spacing: .1rem;
 }
 .playing {
-	transform: scale(1.2);
+	transform: scale(1.1);
 	border-color: #39aea9;
 	box-shadow: 0 0 10px #39aea9;
 }
